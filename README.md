@@ -12,7 +12,7 @@ This Python tool captures and analyzes network packets. It displays information 
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/your-username/Packet-Sniffer.git
+git clone https://github.com/sakthivel-sec/Packet-Sniffer.git
 
 2. Navigate to the project directory:
 cd Packet-Sniffer
